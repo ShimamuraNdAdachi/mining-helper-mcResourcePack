@@ -1,0 +1,7 @@
+{
+    "parent": "block/fire_side",
+    "textures": {
+        "particle": "blocks/blank",
+        "fire": "blocks/fire_layer_0"
+    }
+}
